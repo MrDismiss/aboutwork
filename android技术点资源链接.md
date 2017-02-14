@@ -27,7 +27,7 @@
 
 #6.一些知识点
 - [Android5.0+(CollapsingToolbarLayout)](http://www.open-open.com/lib/view/open1438265746378.html)
-![](http://olcg25kcf.bkt.clouddn.com/17-2-14/84223025-file_1487042101793_11a09.png "样式中得colorAccent，colorPrimary，colorPrimaryDark含义")
+- ![](http://olcg25kcf.bkt.clouddn.com/17-2-14/84223025-file_1487042101793_11a09.png "样式中得colorAccent，colorPrimary，colorPrimaryDark含义")
 - [主流图片加载框架ImageLoader、Glide、Picasso、Fresco性能分析---图片加载速度比较 ](http://blog.csdn.net/zivensonice/article/details/51822968)
 - [Android Weak Handler：可以避免内存泄漏的Handler库](http://blog.csdn.net/ma969070578/article/details/50720941)
 - [LoaderManager使用详解（一）---没有Loader之前的世界](http://blog.csdn.net/murphykwu/article/details/35287303)
