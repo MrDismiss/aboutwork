@@ -37,6 +37,7 @@
 #7.组件化开发相关
 - [Android组件化开发实践](http://www.jianshu.com/p/186fa07fc48a)
 - [Android业务组件化开发实践](http://kymjs.com/code/2016/10/18/01)
+- [Android架构思考(模块化、多进程)](http://blog.spinytech.com/2016/12/28/android_modularization/)
 
 
 #8.插件化开发相关
