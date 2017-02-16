@@ -45,4 +45,5 @@
 - [Android dex分包方案](http://blog.csdn.net/vurtne_ye/article/details/39666381)
 - [Android 热补丁动态修复框架小结](http://blog.csdn.net/lmj623565791/article/details/49883661)
 
-
+#9.工具
+- [开发者福利：史上最全Android 开发和安全系列工具](https://zhuanlan.zhihu.com/p/25261296)
