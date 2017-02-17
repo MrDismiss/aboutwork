@@ -47,3 +47,6 @@
 
 #9.工具
 - [开发者福利：史上最全Android 开发和安全系列工具](https://zhuanlan.zhihu.com/p/25261296)
+
+#10.OpenGL相关
+- [OpenGL超级宝典笔记——GLSL语言基础](https://my.oschina.net/sweetdark/blog/208024)
