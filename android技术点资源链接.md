@@ -19,6 +19,8 @@
 - [Gradle 各个版本](http://services.gradle.org/distributions)
 - ![](http://i1.piimg.com/567571/bf6993989ede4a49.png "导出手机ANR日志 ：adb pull /data/anr/traces.txt anr_traces.txt")
 - [Android Activity启动源码及其应用](http://www.jianshu.com/p/2e022240a9e5)
+
+
 #5.Android面试相关
 - [面试GitHub](https://github.com/hujiaweibujidao/AndroidInterviews)
 - [面试总结-Java基础(一)](http://www.jianshu.com/p/f3fdbcaf7e83)
