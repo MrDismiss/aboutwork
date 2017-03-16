@@ -32,6 +32,7 @@
 - [Android Weak Handler：可以避免内存泄漏的Handler库](http://blog.csdn.net/ma969070578/article/details/50720941)
 - [LoaderManager使用详解（一）---没有Loader之前的世界](http://blog.csdn.net/murphykwu/article/details/35287303)
 - `1. 循环引用对象，不能在writeToParcel内调用writeParcelable，否则造成StackOverflow。使用get和set方法哦可`
+- [给 Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083)
 
 
 #7.组件化开发相关
